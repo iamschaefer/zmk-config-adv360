@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",   "&trans",       "&trans", "&trans",  "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans", "&kp PG_UP", "&kp HOME", "&kp UP_ARROW",    "&kp", "&kp DEL", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",                             "&trans",  "&trans", "&trans", "&kp PG_DN", "&kp LEFT", "&kp DOWN", "&kp RIGHT", "&kp BACKSPACE", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",   "&trans",       "&trans", "&trans",  "&trans", "&trans",    "&trans",   "&trans",   "&trans",    "&trans",        "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_CONTROL",           "&kp LEFT_WIN", "&trans",    "&trans",   "&trans",   "&kp LSHIFT", "&trans",  "&trans", "&trans",    "&trans",   "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",   "&trans",       "&trans",  "&trans",  "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans", "&kp PG_UP", "&kp HOME", "&kp UP_ARROW", "&kp END", "&kp DEL", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",                              "&trans",  "&trans", "&trans", "&kp PG_DN", "&kp LEFT", "&kp DOWN", "&kp RIGHT", "&kp BACKSPACE", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                 "&trans", "&trans",    "&trans",   "&trans",       "&trans",  "&trans",  "&trans", "&trans",    "&trans",   "&trans",   "&trans",    "&trans",        "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_CONTROL",           "&kp LEFT_WIN", "&trans",    "&trans",   "&trans",   "&kp LSHIFT",  "&trans",  "&trans", "&trans",    "&trans",   "&trans"
     ]
   ]
 }
